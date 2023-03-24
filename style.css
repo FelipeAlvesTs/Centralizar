@@ -54,3 +54,7 @@ body {
     right: 0;
     bottom: 0;
 }    
+
+.container-text-align {
+    text-align: center;
+}    
